@@ -1,7 +1,7 @@
 # Working Calendar
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/igorxut/working-calendar/blob/master/LICENSE)
-[![PyPi version](https://img.shields.io/pypi/v/working-calendar.svg)](https://test.pypi.org/project/working-calendar/)
+[![PyPi version](https://img.shields.io/pypi/v/working-calendar.svg)](https://pypi.python.org/pypi/working-calendar/)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/working-calendar.svg)](https://pypi.python.org/pypi/working-calendar/)
 
 ## Description
